@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 import { Link } from "react-router-dom";
 
-import logoAurora from "../../assets/images/aurora-logo-branco.png";
+import logoAurora from "../../assets/images/aurora-logo-white.png";
 
 const Navbar = () => {
     return (
